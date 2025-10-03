@@ -7,5 +7,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="GeminiDotnet.Extensions.AI" Version="0.14.2" />
+    <PackageReference Include="Microsoft.Agents.AI" Version="1.0.0-preview.251002.1" />
   </ItemGroup>
 </Project>
